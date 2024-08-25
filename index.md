@@ -1,3 +1,12 @@
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 # Hello world, this is `<h1>` header.
 ## Hello world, this is `<h2>` header.
 ### Hello world, this is `<h3>` header.

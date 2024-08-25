@@ -1,3 +1,9 @@
+Sample task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
